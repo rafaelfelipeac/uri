@@ -12,4 +12,4 @@ main()
 	printf("%i\n", t);
 	
 	system("pause");	
-}
+}1

@@ -20,4 +20,4 @@ main()
 	printf("%i\n", c);
 	
 	system("pause");		
-}
+}1

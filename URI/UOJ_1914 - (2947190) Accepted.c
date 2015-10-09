@@ -34,4 +34,4 @@ main()
 		}
 	}
 	system("pause");
-}
+}1

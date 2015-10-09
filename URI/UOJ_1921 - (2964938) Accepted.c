@@ -10,4 +10,4 @@ main()
 	n/=2;
 	printf("%lli\n", n);
 	system("pause");
-}
+}1

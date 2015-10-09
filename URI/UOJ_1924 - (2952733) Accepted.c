@@ -19,4 +19,4 @@ main()
 	printf("Ciencia da Computacao\n");
 	
 	system("pause");
-}
+}1
